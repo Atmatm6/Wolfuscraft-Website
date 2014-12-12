@@ -9,3 +9,5 @@ meaning to
   b)Clone.
   c)Fake us.
   d)Send anything mean to us here.
+
+site is atmatm6.github.io/Wolfuscraft-Website
